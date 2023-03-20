@@ -1,0 +1,27 @@
+13:22:48.592  INFO  [LibraryManager] ---- group creation in C:\Users\1DAW_2223_11\Desktop\DAW\LENGUAJES DE MARCAS\UD6\Actividades\XQuery\BD_Libros
+13:22:48.592  INFO  [LibraryManager]  100
+13:23:10.118  INFO  [LibraryManager] shutdown begins
+13:23:10.118  INFO  [LibraryManager] shutdown complete.
+13:23:10.118  INFO  [LibraryManager] ---- starting up ----
+13:23:10.118  INFO  [LibraryManager]  100
+13:23:10.118  INFO  [LibraryManager] Library group ready
+13:23:27.083  INFO  [LibraryManager] shutdown begins
+13:23:27.083  INFO  [LibraryManager] shutdown complete.
+13:23:40.533  INFO  [LibraryManager] ---- starting up ----
+13:23:40.533  INFO  [LibraryManager]  100
+13:23:40.533  INFO  [LibraryManager] Library group ready
+13:50:42.161  INFO  [LibraryManager] shutdown begins
+13:50:42.161  INFO  [LibraryManager]  closed library BD_Libros
+13:50:42.161  INFO  [LibraryManager] shutdown complete.
+13:51:12.409  INFO  [LibraryManager] ---- starting up ----
+13:51:12.409  INFO  [LibraryManager]  100
+13:51:12.487  INFO  [LibraryManager] Library group ready
+14:22:41.753  INFO  [LibraryManager] shutdown begins
+14:22:41.753  INFO  [LibraryManager]  closed library BD_Libros
+14:22:41.753  INFO  [LibraryManager] shutdown complete.
+14:23:12.786  INFO  [LibraryManager] ---- starting up ----
+14:23:12.786  INFO  [LibraryManager]  100
+14:23:12.879  INFO  [LibraryManager] Library group ready
+14:32:56.653  INFO  [LibraryManager] shutdown begins
+14:32:56.653  INFO  [LibraryManager]  closed library BD_Libros
+14:32:56.653  INFO  [LibraryManager] shutdown complete.

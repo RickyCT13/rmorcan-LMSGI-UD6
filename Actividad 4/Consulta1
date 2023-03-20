@@ -1,0 +1,42 @@
+<html>
+    <head>
+        <title>Resultado consulta Actividad 4</title>
+        <h1 color="#FFFFFF">Todos los libros</h1>
+    </head>
+    <body bgcolor="#808080">
+        <table border="1" bgcolor="#99CCFF">
+            <tr bgcolor="#0066FF">
+                <th>Código Libro</th>
+                <th>Título</th>
+                <th>Editorial</th>
+                <th>Edición</th>
+                <th>ISBN</th>
+                <th>Número páginas</th>
+                <th>Autor</th>
+            </tr>
+            {
+                for $libro in doc('BD_Libros.xml')//Libros/libro
+                let $codlibro:=$libro/Cod_Libro
+                let $titulo:=$libro/Titulo
+                let $editorial:=$libro/Editorial
+                let $edicion:=$libro/Edicion
+                let $isbn:=$libro/ISBN
+                let $numpaginas:=$libro/NumPaginas
+                let $nombre:=$libro/Autores/autor/Nombre
+                let $apellidos:=$libro/Autores/autor/Apellidos
+                let $fechanac:=$libro/Autores/autor/FechaNacimiento
+                let $nacionalidad:=$libro/Autores/autor/Nacionalidad
+                return
+                    <tr>
+                        <td>{data($codlibro)}</td>
+                        <td>{data($titulo)}</td>
+                        <td>{data($editorial)}</td>
+                        <td>{data($edicion)}</td>
+                        <td>{data($isbn)}</td>
+                        <td>{data($numpaginas)}</td>
+                        <td>{data($nombre)}<br/>{data($apellidos)}<br/>{data($fechanac)}<br/>{data($nacionalidad)}</td>
+                    </tr>
+            }
+        </table>
+    </body>
+</html>

@@ -7,3 +7,9 @@
 09:24:32.800  INFO  [LibraryManager] Library group ready
 09:25:16.881  INFO  [LibraryManager] shutdown begins
 09:25:16.881  INFO  [LibraryManager] shutdown complete.
+09:25:16.884  INFO  [LibraryManager] ---- starting up ----
+09:25:16.884  INFO  [LibraryManager]  100
+09:25:16.885  INFO  [LibraryManager] Library group ready
+10:36:01.878  INFO  [LibraryManager] shutdown begins
+10:36:01.881  INFO  [LibraryManager]  closed library BD_BailesDeSalon
+10:36:01.882  INFO  [LibraryManager] shutdown complete.

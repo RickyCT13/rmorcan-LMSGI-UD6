@@ -1,3 +1,5 @@
-09:25:57.591  INFO  [lib BD_BailesDeSalon] Qizx 4.4p1 creating new XML Library in C:\Users\1DAW_2223_11\Desktop\DAW\LENGUAJES DE MARCAS\UD6\Actividades\XQuery\BD_BailesDeSalon
-09:25:57.591  INFO  [lib BD_BailesDeSalon] create storage in C:\Users\1DAW_2223_11\Desktop\DAW\LENGUAJES DE MARCAS\UD6\Actividades\XQuery\BD_BailesDeSalon\contents.qdb
-09:25:57.595  INFO  [lib BD_BailesDeSalon] storage created
+13:23:27.192  INFO  [lib BD_BailesDeSalon] Library opened by Qizx 4.4p1
+13:23:27.192  INFO  [lib BD_BailesDeSalon]  location C:\Users\1DAW_2223_11\Desktop\DAW\LENGUAJES DE MARCAS\UD6\Actividades\XQuery\BD_BailesDeSalon
+13:23:27.192  INFO  [lib BD_BailesDeSalon]  document storage version=5, lastBId=55, BCount=33, maxA=502
+13:23:40.533  INFO  [lib BD_BailesDeSalon] All sessions closed
+13:23:40.533  INFO  [lib BD_BailesDeSalon] library closed 

@@ -1,0 +1,2 @@
+replace node doc('BD_Libros.xml')//Libros/libro[Cod_Libro=11]
+with <libro><Cod_Libro>11</Cod_Libro><Titulo>Introducción a la Prog. Orientada a Objetos</Titulo><Editorial>Baquelita</Editorial><Edicion>2</Edicion><ISBN>9651266742120</ISBN><NumPaginas>232</NumPaginas><Autores><autor><Cod_Autor>11</Cod_Autor><Nombre>Juan José</Nombre><Apellidos>García Nuevo</Apellidos><FechaNacimiento>22/12/1992</FechaNacimiento><Nacionalidad>España</Nacionalidad></autor></Autores></libro>
